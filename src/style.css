@@ -1,0 +1,111 @@
+@keyframes expand {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+
+html {
+  background-color: black;
+  color: #F6C758;
+  font-size: 30px;
+  font-family: Helvetica,Arial,sans-serif;
+  display: grid;
+  margin: auto;
+  max-width: 600px;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
+
+.ejp-main-generate {
+  height: 200px;
+  width: 200px;
+  border: 15px solid #F6C758;
+  border-radius: 50%;
+  display: grid;
+  padding: 50px;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  animation: expand .5s ease-in-out;
+}
+
+.ejp-main-return {
+  cursor: pointer;
+  cursor: pointer;
+  width: 100px;
+  margin: auto;
+  padding: 20px;
+  border: 5px solid #F6C758;
+  border-radius: 50%;
+  animation: expand .5s ease-in-out;
+}
+
+.ejp-main-return:hover {
+  background: rgb(202,127,38);
+  background: linear-gradient(45deg, rgba(202,127,38,1) 0%, rgb(253, 222, 149) 100%);
+  border-color: black;
+  animation: expand .5s ease-in-out;
+}
+
+.ejp-main-return:hover svg {
+  fill: black;
+  animation: expand .5s ease-in-out;
+}
+
+.ejp-main-generated-numbers {
+  display: flex;
+  width: 300px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.ejp-main-generated-numbers span {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.ejp-main-generated-numbers span:not(:last-child) {
+  margin-right: 10px;
+}
+
+.ejp-main-generate:hover {
+  background: rgb(202,127,38);
+  background: linear-gradient(45deg, rgba(202,127,38,1) 0%, rgb(253, 222, 149) 100%);
+  border-color: black;
+  animation: expand .5s ease-in-out;
+}
+
+svg {
+  display: grid;
+  margin: auto;
+  animation: expand .5s ease-in-out;
+  fill: #F6C758;
+}
+
+.ejp-main-generate:hover svg {
+  fill: black;
+  animation: expand .5s ease-in-out;
+}
+
+.ejp-main-generated-numbers span:nth-child(1) {
+  animation: expand .25s ease-in-out;
+}
+
+.ejp-main-generated-numbers span:nth-child(2) {
+  animation: expand .5s ease-in-out;
+}
+
+.ejp-main-generated-numbers span:nth-child(3) {
+  animation: expand .75s ease-in-out;
+}
+
+.ejp-main-generated-numbers span:nth-child(4) {
+  animation: expand 1s ease-in-out;
+}
+
+.ejp-main-generated-numbers span:nth-child(5) {
+  animation: expand 1.25s ease-in-out;
+}
