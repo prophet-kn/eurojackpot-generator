@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eurojackpot-generator/static/css/main.39b99a25.chunk.css",
+    "main.js": "/eurojackpot-generator/static/js/main.6571f5ce.chunk.js",
+    "main.js.map": "/eurojackpot-generator/static/js/main.6571f5ce.chunk.js.map",
+    "runtime~main.js": "/eurojackpot-generator/static/js/runtime~main.a8da8e99.js",
+    "runtime~main.js.map": "/eurojackpot-generator/static/js/runtime~main.a8da8e99.js.map",
+    "static/js/2.1f7a2dbf.chunk.js": "/eurojackpot-generator/static/js/2.1f7a2dbf.chunk.js",
+    "static/js/2.1f7a2dbf.chunk.js.map": "/eurojackpot-generator/static/js/2.1f7a2dbf.chunk.js.map",
+    "index.html": "/eurojackpot-generator/index.html",
+    "precache-manifest.56dc243fdd3795e15142020105f4f0c9.js": "/eurojackpot-generator/precache-manifest.56dc243fdd3795e15142020105f4f0c9.js",
+    "service-worker.js": "/eurojackpot-generator/service-worker.js",
+    "static/css/main.39b99a25.chunk.css.map": "/eurojackpot-generator/static/css/main.39b99a25.chunk.css.map"
+  }
+}
