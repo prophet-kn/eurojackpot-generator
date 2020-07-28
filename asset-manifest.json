@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/eurojackpot-generator/static/css/main.39b99a25.chunk.css",
-    "main.js": "/eurojackpot-generator/static/js/main.6571f5ce.chunk.js",
-    "main.js.map": "/eurojackpot-generator/static/js/main.6571f5ce.chunk.js.map",
-    "runtime~main.js": "/eurojackpot-generator/static/js/runtime~main.a8da8e99.js",
-    "runtime~main.js.map": "/eurojackpot-generator/static/js/runtime~main.a8da8e99.js.map",
-    "static/js/2.1f7a2dbf.chunk.js": "/eurojackpot-generator/static/js/2.1f7a2dbf.chunk.js",
-    "static/js/2.1f7a2dbf.chunk.js.map": "/eurojackpot-generator/static/js/2.1f7a2dbf.chunk.js.map",
+    "main.css": "/eurojackpot-generator/static/css/main.6c140566.chunk.css",
+    "main.js": "/eurojackpot-generator/static/js/main.f2fa5ff7.chunk.js",
+    "main.js.map": "/eurojackpot-generator/static/js/main.f2fa5ff7.chunk.js.map",
+    "runtime-main.js": "/eurojackpot-generator/static/js/runtime-main.b9c44914.js",
+    "runtime-main.js.map": "/eurojackpot-generator/static/js/runtime-main.b9c44914.js.map",
+    "static/js/2.e434a4f5.chunk.js": "/eurojackpot-generator/static/js/2.e434a4f5.chunk.js",
+    "static/js/2.e434a4f5.chunk.js.map": "/eurojackpot-generator/static/js/2.e434a4f5.chunk.js.map",
     "index.html": "/eurojackpot-generator/index.html",
-    "precache-manifest.56dc243fdd3795e15142020105f4f0c9.js": "/eurojackpot-generator/precache-manifest.56dc243fdd3795e15142020105f4f0c9.js",
+    "precache-manifest.b248696035b784f8a043904bf269faf4.js": "/eurojackpot-generator/precache-manifest.b248696035b784f8a043904bf269faf4.js",
     "service-worker.js": "/eurojackpot-generator/service-worker.js",
-    "static/css/main.39b99a25.chunk.css.map": "/eurojackpot-generator/static/css/main.39b99a25.chunk.css.map"
-  }
+    "static/css/main.6c140566.chunk.css.map": "/eurojackpot-generator/static/css/main.6c140566.chunk.css.map",
+    "static/js/2.e434a4f5.chunk.js.LICENSE.txt": "/eurojackpot-generator/static/js/2.e434a4f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9c44914.js",
+    "static/js/2.e434a4f5.chunk.js",
+    "static/css/main.6c140566.chunk.css",
+    "static/js/main.f2fa5ff7.chunk.js"
+  ]
 }
